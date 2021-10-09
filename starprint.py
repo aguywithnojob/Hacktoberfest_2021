@@ -15,5 +15,6 @@ def pypart(n):
         print("\r")
  
 # Driver Code
-n = 5
+n = int(input("Enter the number of line for the pattern : "))
+print()
 pypart(n)
